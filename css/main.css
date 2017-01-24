@@ -17,16 +17,16 @@ p {
 	margin: 5px auto;
 }
 
-img {
-	width: 100%;
-}
-
 header {
 	height: 90px;
 	width: 100%;
 	background-color: orange;
 	padding: 15px 0;
 	margin-bottom: 30px;
+}
+
+.thumbnail img {
+	width: 100%;
 }
 
 .caption {
